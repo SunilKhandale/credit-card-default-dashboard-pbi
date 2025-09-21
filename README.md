@@ -33,7 +33,7 @@ Age group wise :- number of 20-30 & 30-40 age group customers are like todefault
 Limit Balance wise :- the customer with less limit balance are more likely to default
 Outstanding Buckets :-
 
-![dashboard]()
+![dashboard](https://github.com/SunilKhandale/credit-card-default-dashboard-pbi/blob/main/Screenshot%20(50).png)
 
 
 
